@@ -88,9 +88,10 @@ Real-time gait analysis without lab equipment — wearable built on **Seeed XIAO
 
 - 📡 Streams 6-axis motion data at **100ms intervals**
 - 📈 Live dashboard (Web Bluetooth + Chart.js) for step count, stride length & lateral deviation
+- 🧬 Captured gait data used to **classify gait-recognized diseases**, extending the system beyond monitoring into diagnostic screening
 - 🔧 Full embedded-to-web pipeline, no lab hardware required
 
-`Embedded C` `BLE GATT` `Web Bluetooth` `Chart.js`
+`Embedded C` `BLE GATT` `Web Bluetooth` `Chart.js` `Gait Disease Classification`
 
 </td>
 </tr>
@@ -110,14 +111,6 @@ Classified pneumonia from **5,856 chest X-rays** at **83% accuracy** using an at
 
 ---
 
-## 💼 Experience
-
-**Backend Developer Intern** — [Yana.travel](https://yana.travel) · *June 2025 – September 2025*
-- Engineered and deployed third-party email integration using **Spring Boot (Java)**, automating email workflows across multiple business processes
-- Reported directly to the Founder & CEO; delivered all requirements on time with high code quality
-
----
-
 ## 🧰 Tech Stack
 
 <div align="center">
@@ -133,6 +126,8 @@ Classified pneumonia from **5,856 chest X-rays** at **83% accuracy** using an at
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/🤗_HuggingFace-FFD21E?style=for-the-badge&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
