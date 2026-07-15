@@ -165,20 +165,6 @@ Classified pneumonia from **5,856 chest X-rays** at **83% accuracy** using an at
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rishsoraganvi/rishsoraganvi/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rishsoraganvi/rishsoraganvi/output/github-contribution-grid-snake.svg">
-  <img alt="A snake eating my GitHub contribution grid" src="https://raw.githubusercontent.com/rishsoraganvi/rishsoraganvi/output/github-contribution-grid-snake.svg">
-</picture>
-
-</div>
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
