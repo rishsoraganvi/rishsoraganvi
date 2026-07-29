@@ -2,7 +2,7 @@
 
 # Hi, I'm Rishabh Soraganvi 👋
 
-### AI/ML Engineer • Generative AI • MLOps & Production ML Systems
+### AI/ML Developer & Automation • Generative AI • MLOps & Production ML Systems
 
 I build machine learning systems end-to-end — from model research to deployment — with a focus on **clinical AI, MLOps automation, and RAG systems**.
 
